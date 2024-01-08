@@ -6,8 +6,10 @@
   "ZIPFNAME":"ZIP Dateiname",
   "DESCRIPTION":"Beschreibung",
   "EXEC":"Erzeuge Gerber und ZIP",
+  "BOMPOSEXEC":"Erzeuge BOM/POS-Datei",
   "DETAIL":"Zeige Einstellungen",
   "CLOSE":"Schließen",
   "DESC2":"Die Einstellungen sind temporär. Permanente Einstellungen können in den jeweiligen JSON Dateien gemacht werden.",
-  "COMPLETE":"Export fertiggestellt.\n\nAusgabe: %s"
+  "COMPLETE":"Export fertiggestellt.\n\nAusgabe: %s",
+  "BOMPOSCOMPLETE":"BOM/POS-Dateien erstellt. \n\n BOM-Datei : %s \n POS-Top-Datei : %s \n POS-Bottom-Datei : %s"
 }
